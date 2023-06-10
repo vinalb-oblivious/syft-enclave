@@ -16,9 +16,6 @@ paths:
   path: /api/v2/api_call
   short_description: Syft API endpoint
 - access: domain,user
-  path: /
-  short_description: HealthCheck
-- access: domain,user
   path: /api/v2/metadata
   short_description: Metadata Endpoint
 - access: domain,user
